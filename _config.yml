@@ -1,12 +1,14 @@
 # Site
 name: 'kayBee*'
-description: 'A humble attempt to log my thoughts,clicks, reviews & use cases.'
+description: '::Life logs::>Food>>Travel>>Experience>>Capture>>Share>::'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'kay-bee'
 email: 'contact@kbvishnu.com'
 mailchimp-list: ''
+atitle: '::Life logs::Food>>Travel>>Experience>>Capture>>Share>::'
+techatitle: '::Tech logs::>Code>>Build>>Break>>Fix>>Deploy>>Disrupt>::' 
 
 include: ["_pages"]
 permalink: /:title/
