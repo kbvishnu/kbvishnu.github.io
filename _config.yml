@@ -1,12 +1,14 @@
 # Site
 name: 'kayBee*'
-description: 'A humble attempt to log my thoughts,clicks, reviews & use cases.'
+description: '::Life logs::>Food>>Travel>>Experience>>Capture>>Share>::'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'kay-bee'
 email: 'contact@kbvishnu.com'
 mailchimp-list: ''
+atitle: '::Life logs::Food>>Travel>>Experience>>Capture>>Share>::'
+techatitle: '::Tech logs::>Code>>Build>>Break>>Fix>>Deploy>>Disrupt>::' 
 
 include: ["_pages"]
 permalink: /:title/
@@ -25,7 +27,7 @@ authors:
       site:           https://www.kbvishnu.com
       avatar:         assets/images/kayBee.jpg
       bio:            "Son,Husband,Father,Full Stack Engineer, Petrolhead,Photographer, MovieBuff & Non Profit Professional. If you are interested in tech stories, please feel free to visit https://tech.kbvishnu.com. Disclaimer: The opinions expressed herein are my own personal opinions and do not represent my present or previous employer’s or any affiliated organization's view in any way."
-      email:          contact@kbvishnu.com
+      email:          connect@kbvishnu.com
       twitter:        https://twitter.com/vishnukb
  
 # Defaults
