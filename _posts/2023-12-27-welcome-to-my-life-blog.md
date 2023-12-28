@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my blog!"
 author: kaybee
-categories: [ Self, Introduction ]
+categories: [ Self, Introduction , Life ]
 image: assets/images/intro.png
 tags: [featured]
 ---
@@ -23,7 +23,7 @@ This site is hosted using GitHub and generates using Jekyll. The repository is s
 
 To those folks, who somehow reached my blog, I'm Vishnu KB, husband of Aswathy Soman and father of Ahaan.  I am a Full-stack engineer by profession and mostly engaged in building or migrating legacy systems to modern day solutions to tackle new gen business problems. I am passionate about technology, travel, charity, cooking, movies and photography. 
 
-Please feel free to reach me on [vishnu.balachandra@gmail.com](mailto://vishnu.balachandra@gmail.com?subject=Invoked from kayBee blog). 
+Please feel free to reach me on [vishnu.balachandra@gmail.com](mailto://contact@kbvishnu.com?subject=Invoked from kayBee blog). 
 
 **Disclaimer: The opinions expressed herein are my own personal opinions and do not represent my present or previous employer’s or any affiliated organization's view in any way.**
 
